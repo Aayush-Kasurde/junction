@@ -19,8 +19,8 @@ Setup a virtualenv:
 
 ```
 $ sudo yum install python-virtualenv
-$ virtualenv juntion-env
-$ source juntion-env/bin/activate
+$ virtualenv junction-env
+$ source junction-env/bin/activate
 ```
 Installing requirements
 
